@@ -1,0 +1,449 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    background-color: #6fc9c9;
+    color:#e3e3e3;
+    text-shadow: 5px 7px 8px;
+    padding:8px;
+    margin-bottom: 5px;
+    text-decoration: solid;
+    text-transform: uppercase;
+    width: 100%;
+}
+tr{
+    border-spacing: 0px;
+}
+#a{
+    background-color: #d77a7a;
+    color:white;
+    text-align: center;
+    width: 100%;
+}
+a{
+    color:white;
+    text-decoration: none;
+    
+}
+a:hover{
+    background-color: #d77a7a;
+    color: red;
+}
+h2{
+    background-color: rgb(191 160 114);
+    text-align: center;
+    color:#22c3c3;
+    text-shadow: 10px 6px 10px;
+    padding: 10px;
+    margin:1px;
+    width: 100%;
+} 
+.pg{
+    text-align: justify;
+    display:grid;
+    grid-template-columns: 340px 340px 340px 340px;
+    grid-template-rows: 560px 560px 560px 560px;
+    grid-area:100%;
+    width: 100%;
+    color: white;
+}
+img{
+    margin: 0px 0px;
+    width: 100%;
+}
+h4{
+    background-color: rgb(214, 229, 242);
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.ap{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(135 193 187);
+    padding:15px;
+    margin: 10px;
+}
+.bcp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(135 193 187);
+    padding:15px;
+    margin: 10px;
+}
+.cncp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.dvp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.fp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.hp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.itp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.kasp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.mncp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.mp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.mgw{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.mfp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.pmp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.pP{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.ppp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.pp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.pc{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.par{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.qf{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.sp{
+    width: 300px;
+    height: 520px;
+    background-color: rgb(137, 193, 187);
+    padding:15px;
+    margin: 10px;
+}
+.ap button{
+    margin-left:130px;
+    margin-top: 44px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.bcp button{
+    margin-top: 8px;
+    margin-left: 130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.cncp button{
+    margin-top: 40px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.dvp button{
+    margin-top: 60px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.fp button{
+    margin-top: 30px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.hp button{
+    margin-top: 65px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.itp button{
+    margin-top: 45px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+
+}
+.kasp button{
+    margin-top: 40px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.mncp button{
+    margin-top: 30px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.mp button{
+    margin-top: 30px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.mgw button{
+    margin-top: 50px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.mfp button{
+    margin-top: 30px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.pmp button{
+    margin-top: 20px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.pP button{
+    margin-top: 50px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.ppp button{
+    margin-top: 20px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.pp button{
+    margin-top: 70px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.pc button{
+    margin-top: 70px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.par button{
+    margin-top: 70px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.qf button{
+    margin-top: 50px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+.sp button{
+    margin-top: 90px;
+    margin-left:130px;
+    padding:0px 5px;
+    color: rgb(244, 33, 9);
+    border-radius: 15px 5px 15px 5px;
+    border-color: rgb(255, 0, 217);
+    background-color: rgb(213, 243, 201);
+    font-size: larger;
+}
+button:hover{
+    color: white;
+    box-shadow: rgb(249, 6, 6);
+}
+.box22{
+    text-align: center;
+    color: brown;
+    font-size: 25px;
+    font-family:url(https://fonts.google.com/specimen/Dancing+Script);
+    background-color: bisque;
+    margin: 15px 0px;
+}
+pre{
+    display:flex;
+    justify-content: l;
+}
+.about{
+    background-color: rgb(134, 176, 162);
+    margin: 15px 0px;
+}
+.about p{
+    font-size: 25px;
+}
+.contact{
+    background-color: #f09999;
+}
+.contact p {
+    width: 30rem;
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+    padding: 0px 27rem;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+}
+.map{
+    display: flex;
+}
+iframe{
+    width: 100%;
+    height: 30rem;
+    display: flex;
+    -ms-flex-align: end;
+    
+}
